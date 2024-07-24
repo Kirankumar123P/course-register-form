@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Register</title>
+    <link rel="icon" href="img/muscle.png">
+</head>
+<body bgcolor="grey" style="color:white">
+    <center>
+        <h1>Fitness World Academy</h1>
+        <h5>Training | Diet Plan | Freshers Guide</h5>
+        <p>Empowering individuals through comprehensive fitness programs designed to enhance physical health and mental well-being. Join us to achieve your fitness goals with expert guidance and state-of-the-art facilities.</p>
+        <a></a>
+    </center>
+    <hr>
+    <center>
+        <h2>Registration Form</h2>
+        <form>
+            <table>
+                <tr>
+                    <td>Name:</td> <td><input type="text" placeholder="Enter your Name"></td>
+                </tr>
+
+                <tr>
+                    <td>Age:</td> <td><input type="number" placeholder="Enter your Age"></td>
+                </tr>
+
+                <tr>
+                    <td>Gender:</td>
+                    <td>
+                    <select>
+                    <option>select your gender</option>
+                    <option>Male</option>
+                    <option>Female</option>
+                    </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Email:</td> <td><input type="text" placeholder="Enter your email"></td>
+                </tr>
+
+                <tr>
+                    <td>Select a course</td>
+                    <td>
+                        <select>
+                            <option>Challenge to transform in 60 Days</option>
+                            <option>Bulk</option>
+                            <option>Cut</option>
+                            <option>Weight loss</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Upload your resume</td>
+                    <td>
+                        <input type="file">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><input type="submit"></td>
+                    <td><input type="reset"></td>
+                </tr>
+
+            </table>
+        </form>
+    </center>
+    <hr>
+    <center>
+        <a href="index.html">Home</a> | <a href="https://www.instagram.com/pandi_sakthi/?hl=en">Instagram</a> | <a href="https://youtu.be/eLNvJfs4j0k?si=h_EneqHWBQnpgut7">Youtube</a>
+    </center>
+</body>
+</html>

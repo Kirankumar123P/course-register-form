@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Fitness</title>
+    <link rel="icon" href="img/muscle.png">
+</head>
+<body bgcolor="grey" style="color:white">
+    <center>
+        <h1>Fitness World Academy</h1>
+        <h5>Traning | Diet Plan | Freshers Guide</h5>
+        <p>Empowering individuals through comprehensive fitness programs designed to enhance physical health and mental well-being. Join us to achieve your fitness goals with expert guidance and state-of-the-art facilities.</p>
+        <a></a>
+    </center>
+    <hr>
+    <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/eLNvJfs4j0k?si=JX1y7a4Nm515o0no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <p>
+        Fitness Academy is dedicated to transforming lives through fitness and wellness. Our comprehensive programs cater to all fitness levels, offering personalized training plans, group classes, and nutritional guidance. Our team of certified trainers and wellness experts are committed to helping you achieve your health goals, whether you're looking to lose weight, build muscle, or improve overall fitness. </p>
+    <p> With state-of-the-art equipment and a supportive community, we create an environment where you can thrive. Join Fitness Academy today and embark on a journey towards a healthier, stronger, and more balanced life. Your fitness journey starts here!</p>
+
+    <h1>Lets divide fitness into 3 parts</h1>
+    <ul>
+        <li>Bulk</li>
+        <li>Cut</li>
+        <li>Weight loss</li>
+    </ul>
+    <h1>Challenge to transform in 60 Days</h1>
+    <table border="1">
+        <tr>
+            <td>Timing</td> <td>Bulk</td> <td>Cut</td> <td>Weight loss</td> 
+        </tr>
+
+        <tr>
+            <td>Morning</td> <td>High carbs</td> <td>Low carbs</td> <td>No carbs</td> 
+        </tr>
+
+        <tr>
+            <td>Afternoon</td> <td>Protein</td> <td>Protein</td> <td>Protein</td>
+        </tr>
+
+        <tr>
+            <td>Night</td> <td>Protein</td> <td>protein</td> <td>protein</td>
+        </tr>
+    </table>
+    <center>
+        <a href="register.html">Register for a course</a> | <a href="https://www.instagram.com/pandi_sakthi/?hl=en">Instagram</a> | <a href="https://youtu.be/eLNvJfs4j0k?si=h_EneqHWBQnpgut7">Youtube</a>
+    </center>
+</body>
+</html>
